@@ -1,0 +1,11 @@
+git clone
+git init
+git branch 
+git push origin main
+git config
+git status
+git add
+git commit
+git remote 
+git checkout 
+git switch 
